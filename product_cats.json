@@ -1,0 +1,151 @@
+
+[
+    {
+        "id": 1,
+        "displayName": "Fixed"
+    },
+    {
+        "id": 2,
+        "displayName": "DIPNAS"
+    },
+    {
+        "id": 3,
+        "displayName": "Postpaid Mobile Broadband"
+    },
+    {
+        "id": 4,
+        "displayName": "Postpaid Mobile Handheld"
+    },
+    {
+        "id": 5,
+        "displayName": "Prepaid Mobile"
+    },
+    {
+        "id": 6,
+        "displayName": "Gaming-Subscriptions"
+    },
+    {
+        "id": 7,
+        "displayName": "Foxtel Broadcast"
+    },
+    {
+        "id": 8,
+        "displayName": "Outright Device - Mobility"
+    },
+    {
+        "id": 9,
+        "displayName": "Telstra TV"
+    },
+    {
+        "id": 10,
+        "displayName": "Handheld Protection"
+    },
+    {
+        "id": 11,
+        "displayName": "Telstra Platinum Acts"
+    },
+    {
+        "id": 12,
+        "displayName": "Cyber Security Device Protect"
+    },
+    {
+        "id": 13,
+        "displayName": "Accessories"
+    },
+    {
+        "id": 14,
+        "displayName": "IDD"
+    },
+    {
+        "id": 15,
+        "displayName": "Smart Modem"
+    },
+    {
+        "id": 16,
+        "displayName": "Speed Boost"
+    },
+    {
+        "id": 17,
+        "displayName": "Telstra Game Optimiser"
+    },
+    {
+        "id": 18,
+        "displayName": "Smart Home Acts"
+    },
+    {
+        "id": 19,
+        "displayName": "Telstra One"
+    },
+    {
+        "id": 20,
+        "displayName": "Telstra Locator"
+    },
+    {
+        "id": 21,
+        "displayName": "Telstra WiFi Guarantee"
+    },
+    {
+        "id": 22,
+        "displayName": "Wi-Fi Booster"
+    },
+    {
+        "id": 23,
+        "displayName": "Binge"
+    },
+    {
+        "id": 24,
+        "displayName": "Foxtel Now"
+    },
+    {
+        "id": 25,
+        "displayName": "Kayo"
+    },
+    {
+        "id": 26,
+        "displayName": "Netflix"
+    },
+    {
+        "id": 27,
+        "displayName": "Business Protect Services"
+    },
+    {
+        "id": 28,
+        "displayName": "Telstra Business Services"
+    },
+    {
+        "id": 29,
+        "displayName": "M2M"
+    },
+    {
+        "id": 30,
+        "displayName": "No Product"
+    },
+    {
+        "id": 31,
+        "displayName": "Loyalty"
+    },
+    {
+        "id": 32,
+        "displayName": "Other"
+    },
+    {
+        "id": 33,
+        "displayName": "Prepaid"
+    },
+    {
+        "id": 34,
+        "displayName": "Service"
+    },
+    {
+        "id": 35,
+        "displayName": "SMB"
+    },
+    {
+        "id": 36,
+        "displayName": "Streaming"
+    },
+    {
+        "id": 37,
+        "displayName": "TDI"
+    }
+]
